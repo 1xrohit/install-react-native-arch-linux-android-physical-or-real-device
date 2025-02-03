@@ -98,6 +98,6 @@ Now, you should be able to use your physical device for React Native development
 ## Social MEDIA LINKS
 I hope you've found this guide helpful
 
-Follow me on Twitter for more tips. <a href="https://x.com/1xrohit"><img src="https://img.shields.io/badge/Follow%20Rohit-blue.svg?logo=twitter"></a>
+ <a href="https://x.com/1xrohit"><img src="https://img.shields.io/badge/Follow%20Rohit-blue.svg?logo=twitter"></a> on Twitter for more tips.
 
 
