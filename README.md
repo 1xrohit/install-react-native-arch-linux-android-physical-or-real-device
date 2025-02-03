@@ -70,7 +70,8 @@ yarn global add react-native-cli
 ## Step 6: Initialize a React Native Project
 ```sh
 npx react-native@latest init MyApp
-npx @react-native-community/cli init MyProject
+OR
+npx @react-native-community/cli init MyApp
 ```
 
 ## Step 7: Install Android SDK Build Tools
