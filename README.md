@@ -1,4 +1,4 @@
-# ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) How to Install React Native on Arch Linux with Physical Android Devices ![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
+ How to Install React Native on Arch Linux with Physical/Real Android Devices 
 
 This guide will walk you through installing React Native and setting up your physical Android device for development on an Arch-based Linux distribution.
 
