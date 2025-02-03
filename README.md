@@ -1,4 +1,4 @@
- How to Install React Native on Arch Linux with Physical/Real Android Devices 
+ ## How to Install React Native on Arch Linux with Physical/Real Android Devices 
 
 This guide will walk you through installing React Native and setting up your physical Android device for development on an Arch-based Linux distribution.
 
