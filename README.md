@@ -1,0 +1,1 @@
+# install-react-native-arch-linux-android-physical-or-real-device
